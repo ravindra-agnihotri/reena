@@ -64,12 +64,10 @@ public class ClassFirst {
 
 
     public static void motheLoka(){
-       ClassFirst classFirst= new ClassFirst();
-       classFirst.nitin
     }
 
     public  void lahanMitra(){
-        paresh
+
     }
     //------------------------------------------------------------------------------
 
