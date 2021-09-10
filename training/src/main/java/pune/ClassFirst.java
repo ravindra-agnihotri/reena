@@ -61,6 +61,10 @@ public class ClassFirst {
    // -----------------------------------------------------------------------
      int nitin=7;
      static int paresh= 20;
+     String ravindraAgnihotri="hdjjkn";
+    final String  LEENA_TAYDE="girl";
+
+     String nameOfLady= "leena";
 
 
     public static void motheLoka(){
@@ -69,6 +73,9 @@ public class ClassFirst {
     public  void lahanMitra(){
 
     }
+
+    ClassFirst classFirst;
+    ClassFirst classFirst1= new ClassFirst();
     //------------------------------------------------------------------------------
 
     //public - access specifier/modifier  static/non-static - motha/chota, return type- void, kahi ajun
